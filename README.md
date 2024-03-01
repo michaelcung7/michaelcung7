@@ -1,10 +1,13 @@
 # Hi there, I'm Michael Cung! 👋
 
+<img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 I'm a passionate web developer with experience in various technologies. Here's a bit about me:
 
 - 💻 Currently working with HTML, CSS, Bootstrap, Tailwind, Angular, React, JavaScript, TypeScript, .NET Core, Spring Boot, MySQL, and Git.
 - 🌱 Always learning and exploring new technologies.
 - 📚 Graduated with a degree in Computer Science.
+- 💬 Ask me about **Javascript**
+- 📫 How to reach me **cungmichael63@gmail.com**
 
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,5 +27,5 @@ I'm a passionate web developer with experience in various technologies. Here's a
 - English
 
 ## Connect with Me
-- LinkedIn: [Michael Cung](https://www.linkedin.com/in/michaelcung/)
+- LinkedIn: [Michael Cung](https://www.linkedin.com/in/michaelcung-dev/)
 - Portfolio: [michaelcung.dev](https://www.michaelcung.dev/)
