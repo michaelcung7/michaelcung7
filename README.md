@@ -4,7 +4,7 @@
 I'm a passionate web developer with experience in various technologies. Here's a bit about me:
 
 - 💻 Currently working on Portfolio.
-- 🌱 Always learning and exploring new technologies.
+- 🌱 I'm currently learning Next JS and Vue JS.
 - 📚 Graduated with a degree in Computer Science.
 - 💬 Ask me about **Javascript, Angular and React JS**
 - 📫 How to reach me **cungmichael63@gmail.com**
