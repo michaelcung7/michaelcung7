@@ -28,4 +28,4 @@ I'm a passionate web developer with experience in various technologies. Here's a
 
 ## Connect with Me
 - LinkedIn: [Michael Cung](https://www.linkedin.com/in/michaelcung-dev/)
-- Portfolio: [michaelcung.dev](https://www.michaelcung.dev/](https://michaelcung-dev.vercel.app/)https://michaelcung-dev.vercel.app/)
+- Portfolio: [michaelcung.dev](https://michaelcung-dev.vercel.app/)
