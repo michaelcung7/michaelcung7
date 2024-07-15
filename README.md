@@ -1,4 +1,4 @@
-# Hi there, I'm Michael Cung! 👋
+# Hi there, I'm Mui Cung Nung @Michael! 👋
 
 <img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 I'm a passionate web developer with experience in various technologies. Here's a bit about me:
